@@ -185,9 +185,9 @@ Based on the displayed dashboard:
 
 ---
 
- Dashboard Preview
+## 📷 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](dashboard_overview.png)
+![Hospital Emergency Room Dashboard](Hospital%20Emergency%20Room%20Dashboard.PNG)
 
 
  Business Value
